@@ -26,7 +26,7 @@ include 'config.php'; // Include your config file if needed
 <body>
 
 <div class="button-container">
-    <h1>Welcome to Our Application</h1>
+    <h1>Welcome</h1>
     <div class="mt-4">
         <a href="signup.php" class="btn btn-primary btn-lg">Sign Up</a>
         <a href="login.php" class="btn btn-secondary btn-lg">Log In</a>
